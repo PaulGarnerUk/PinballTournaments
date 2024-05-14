@@ -29,7 +29,7 @@ The top 24 ranked players at the end of the qualifying period continue in the fi
 
 ### Tiebreaking qualification spots
 
-In cases where two or more players score an identical number of points, then each of the player’s lowest scores on their qualifying card will be dropped and the players card scores then re-compared. (If ties still exist then the fourth lowest score will be dropped and so on). This technique means that the player with a better ‘average’ from the set of qualifying games will be seeded higher.
+In cases where two or more players score an identical number of points on either the qualification cutoff line or the bye line, then the tied players will play a single additional game to split the tie. In all other cases then ties will be split by dropping the lowest ranking score on each of the tied player's qualifying cards, and the players card scores then re-compared. (If ties still exist then the fourth lowest score will be dropped and so on). This technique means that the player with a better ‘average’ from the set of qualifying games will be seeded higher for the finals.
 
 
 ## Finals
